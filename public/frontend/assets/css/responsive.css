@@ -1,0 +1,1369 @@
+@media only screen and (min-width: 1600px) {
+    .container {
+        max-width: 1601px;
+    }
+}
+
+@media only screen and (min-width: 1366px) and (max-width: 1600px) {
+    .hero-content-wrapper {
+        padding: 170px 0px;
+    }
+
+    .hero-content-wrapper h1 {
+        font-size: 130px;
+        line-height: 140px;
+    }
+
+    .hero-content-wrapper h2 {
+        font-size: 60px;
+        line-height: 80px;
+        margin: 8px 0px 20px;
+    }
+
+    .mt-150 {
+        margin-top: 110px;
+    }
+
+    .mb-150 {
+        margin-bottom: 110px;
+    }
+
+    .how-to-card-wrapper {
+        gap: 15px;
+    }
+
+    .how-to-card-item {
+        padding: 30px 20px;
+        gap: 20px;
+    }
+}
+
+/* laptop devices */
+@media only screen and (min-width: 1200px) and (max-width: 1365px) {
+    .hero-content-wrapper {
+        padding: 140px 0px;
+    }
+
+    .hero-content-wrapper h1 {
+        font-size: 110px;
+        line-height: 120px;
+    }
+
+    .hero-content-wrapper h2 {
+        font-size: 50px;
+        line-height: 70px;
+        margin: 8px 0px 20px;
+    }
+
+    .mt-150 {
+        margin-top: 90px;
+    }
+
+    .mb-150 {
+        margin-bottom: 90px;
+    }
+
+    .hero-banner-btn {
+        margin-top: 40px;
+    }
+
+    .tm-common-about {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 25px;
+        line-height: 53.36px;
+    }
+
+    .tm-common-heading {
+        font-size: 40px;
+        line-height: 53.36px;
+    }
+
+    .header-menu-area {
+        gap: 40px;
+    }
+
+    .header-menu-area ul {
+        gap: 35px;
+    }
+
+    .how-to-card-wrapper {
+        gap: 15px;
+    }
+
+    .how-to-card-item {
+        padding: 30px 20px;
+        gap: 20px;
+    }
+}
+
+/* large tablet devices */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .appointment-form .form-row {
+        flex-direction: column;
+    }
+
+    .header-menu-area ul {
+        gap: 24px;
+    }
+
+    .header-menu-area {
+        gap: 25px;
+    }
+
+    .nav-btn {
+        padding: 12px 18px;
+        font-size: 15px;
+    }
+
+    .expert-card-wrapper {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .hero-content-wrapper {
+        padding: 90px 0px;
+    }
+
+    .hero-content-wrapper h1 {
+        font-size: 75px;
+        line-height: 100px;
+    }
+
+    .hero-content-wrapper h2 {
+        font-size: 35px;
+        line-height: 60px;
+        margin: 8px 0px 18px;
+    }
+
+    /* common css */
+    .mt-150 {
+        margin-top: 70px;
+    }
+
+    .mb-150 {
+        margin-bottom: 70px;
+    }
+
+    .ptb-80 {
+        padding: 70px 0px;
+    }
+
+    /* common css */
+    .hero-banner-btn {
+        margin-top: 35px;
+    }
+
+    .tm-common-heading {
+        font-size: 35px;
+        line-height: 43.36px;
+    }
+
+    .blog-details-img-area {
+        max-height: 501px;
+    }
+
+    .tm-row {
+        margin-top: 50px;
+        gap: 25px;
+    }
+
+    .tm-row-2 {
+        gap: 80px;
+    }
+
+    .how-to-card-wrapper {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 15px;
+    }
+
+    .how-to-card-item {
+        padding: 35px 25px;
+        gap: 20px;
+    }
+}
+
+/* medium tablet devices */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .expert-card-wrapper {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+
+    .hero-content-wrapper {
+        padding: 55px 0px;
+    }
+
+    .hero-content-wrapper h1 {
+        font-size: 55px;
+        line-height: 65px;
+    }
+
+    .hero-content-wrapper h2 {
+        font-size: 30px;
+        line-height: 50px;
+        margin: 8px 0px 15px;
+    }
+
+    /* common css */
+    .mt-150 {
+        margin-top: 50px;
+    }
+
+    .mb-150 {
+        margin-bottom: 50px;
+    }
+
+    .ptb-80 {
+        padding: 50px 0px;
+    }
+
+    .service-blog-section {
+        padding: 50px 0px;
+    }
+
+    /* common css */
+    .hero-banner-btn {
+        margin-top: 35px;
+    }
+
+    .tm-common-heading {
+        font-size: 32px;
+        line-height: 36.36px;
+    }
+
+    .common-heading-para-link-wrapper {
+        gap: 18px;
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .tm-row-2,
+    .tm-row-3 {
+        gap: 45px;
+    }
+
+    .tm-main-map {
+        margin-top: 33px;
+        height: 550px;
+    }
+
+    .tm-about-col-text-area {
+        gap: 25px;
+    }
+
+    .expert-card-item-link {
+        padding: 13px 24px;
+    }
+
+    .how-to-card-wrapper {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 15px;
+    }
+
+    .how-to-card-item {
+        padding: 30px 20px;
+        gap: 20px;
+    }
+}
+
+/* small tablet devices */
+@media only screen and (min-width: 501px) and (max-width: 767px) {
+
+    .blog-collections-cards {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px !important;
+        margin-top: 25px;
+    }
+
+    .hero-content-wrapper {
+        padding: 40px 0px;
+    }
+
+    .hero-content-wrapper h1 {
+        font-size: 35px;
+        line-height: 35px;
+    }
+
+    .hero-content-wrapper h2 {
+        font-size: 24px;
+        line-height: 30px;
+        margin: 8px 0px 10px;
+    }
+
+    /* common css */
+    .container {
+        padding: 0px 25px;
+    }
+
+    .mt-150 {
+        margin-top: 40px;
+    }
+
+    .mb-150 {
+        margin-bottom: 40px;
+    }
+
+    .ptb-80 {
+        padding: 30px 0px;
+    }
+
+    .service-blog-section {
+        padding: 30px 0px;
+    }
+
+    .tm-row {
+        margin-top: 30px;
+        gap: 30px;
+    }
+
+    .tm-common-heading {
+        font-size: 20px;
+        line-height: 33.36px;
+    }
+
+    .common-heading-para-link-wrapper {
+        gap: 18px;
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .tm-row-2,
+    .tm-row-3 {
+        gap: 45px;
+    }
+
+    .banner-section-start {
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 100%), url(../images/hero-banner.jpg) lightgray 0px 0.219px / 100% 162.396% no-repeat;
+    }
+
+    .expert-heading-para p {
+        font-size: 15px;
+        margin-top: 4px;
+    }
+
+    /* common css */
+    .hero-banner-btn {
+        margin-top: 25px;
+        font-size: 15px;
+        padding: 11px 24px;
+    }
+
+    .hero-content-wrapper p {
+        font-size: 16px;
+        line-height: 24px;
+        max-width: 80%;
+    }
+
+    .tm-common-link {
+        font-size: 15px;
+        line-height: 24.24px;
+        gap: 5px;
+        padding: 10px 16px;
+    }
+
+    .tm-common-link svg {
+        height: 24px;
+    }
+
+    .expert-card-wrapper {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+        margin-top: 20px;
+    }
+
+    .expert-card-item {
+        gap: 12px;
+        padding: 8px;
+    }
+
+    .expert-card-item-link {
+        font-size: 15px;
+        line-height: 24.24px;
+        padding: 10px;
+        margin-top: 12px;
+    }
+
+    .expert-card-content-area {
+        gap: 5px;
+    }
+
+    .expert-sub-heading {
+        font-size: 17px;
+        line-height: 24.36px;
+        margin-bottom: 0px;
+    }
+
+    .therapy-section-heading {
+        font-size: 20px;
+        line-height: 30.36px;
+    }
+
+    .therapy-section p {
+        font-size: 15px;
+    }
+
+    .therapy-section {
+        gap: 12px;
+        padding: 15px;
+        padding-bottom: 35px;
+    }
+
+    .tm-common-link-2 {
+        margin-top: 20px;
+    }
+
+    .expert-card-img-area {
+        height: 250px;
+    }
+
+    .tm-join-instruction-item h4 {
+        font-size: 17px;
+    }
+
+    .tm-join-instruction-item p {
+        font-size: 15px;
+        line-height: 24.24px;
+    }
+
+    .tm-join-instruction-item {
+        padding: 23px 23px 20px 25px;
+    }
+
+    .expert-card-content-area h5 {
+        font-size: 16px;
+    }
+
+    .expert-card-content-area p {
+        font-size: 15px;
+        line-height: 24.24px;
+    }
+
+    .tm-row-2, .tm-row-3 {
+        gap: 20px;
+    }
+
+    .rebates-mini-card-item h3 {
+        font-size: 18px;
+        line-height: 28.8px;
+    }
+
+    .rebates-mini-card-item p {
+        font-size: 15px;
+    }
+
+    .rebates-mini-card-item {
+        padding: 18px;
+    }
+
+    .rebates-mini-card-wrapper {
+        gap: 10px;
+        margin-top: 20px;
+    }
+
+    .blog-section .common-heading-para-link-wrapper {
+        text-align: center;
+        align-items: center !important;
+    }
+
+    .faq-title {
+        margin-bottom: 20px;
+    }
+
+    .tm-accordion {
+        gap: 10px;
+    }
+
+    .tm-accordion .accordion-button {
+        font-size: 16px;
+    }
+
+    .serial-number {
+        font-size: 14px;
+        padding: 3.07px 8px;
+        top: 21px;
+        left: -14px;
+    }
+
+    .blog-read-more {
+        font-size: 16px;
+        margin-top: 3px;
+        gap: 5px;
+    }
+
+    .blog-date-heading-wrapper h3 {
+        font-size: 17px;
+        line-height: 28.8px;
+    }
+
+    .blog-date-heading-wrapper {
+        gap: 5px;
+        margin-top: 12px;
+    }
+
+    .blog-content-area {
+        gap: 10px;
+    }
+
+    .tm-about-us-row {
+        gap: 15px;
+    }
+
+    .tm-about-col-text-area {
+        gap: 15px;
+    }
+
+    .tm-about-col-text-area-main h3 {
+        font-size: 18px;
+    }
+
+    .tm-about-col-text-area-main {
+        gap: 10px;
+    }
+
+    .tm-about-col-text-area-main p {
+        font-size: 15px;
+    }
+
+    .tm-about-col-text-area-main h4 {
+        font-size: 15px;
+    }
+
+    /* services */
+    .service-main-content-wrapper h2 {
+        margin-bottom: 15px;
+    }
+
+    .service-main-content-wrapper p {
+        font-size: 15px;
+    }
+
+    .service-main-content-wrapper {
+        gap: 25px;
+    }
+
+    .services-content-lower-wrapper {
+        column-gap: 50px;
+        row-gap: 20px;
+    }
+
+    .service-lower-item h3 {
+        font-size: 18px;
+        line-height: 25.36px;
+    }
+
+    .service-lower-item {
+        gap: 12px;
+    }
+
+    /* appointment contact */
+    .tm-doctor-details {
+        gap: 12px;
+        padding: 25px;
+    }
+
+    .tm-doctor-details p {
+        font-size: 17px;
+    }
+
+    .doctor-details-line {
+        margin-bottom: 18px;
+    }
+
+    .tm-map-area {
+        padding: 25px;
+    }
+
+    .booking-map-para {
+        margin: 10px 0px 25px;
+    }
+
+    .book-contact-section .footer-contact-item-text-wrapper p {
+        font-size: 16px;
+    }
+
+    .tm-main-map {
+        margin-top: 33px;
+        height: 450px;
+    }
+
+    .tm-doctor-details-row {
+        gap: 20px;
+    }
+
+    .appointment-form-container {
+        padding: 25px;
+    }
+
+    .submit-button {
+        margin-top: 12px;
+        padding: 13px;
+    }
+
+    /* sign in forgot section */
+    .sign-in-up-content-wrapper {
+        padding: 30px;
+        border-radius: 3px;
+    }
+
+    .form-header-para h1 {
+        font-size: 23px;
+        line-height: 25px;
+    }
+
+    .sign-in-up-form-area {
+        padding: 30px;
+        gap: 20px;
+    }
+
+    .tm-sign-in-up-form {
+        gap: 24px;
+    }
+
+    .form-header-para p {
+        font-size: 15px;
+    }
+
+    .form-header-para {
+        gap: 10px;
+    }
+
+    .tm-sign-in-up-form label {
+        font-size: 15px;
+    }
+
+
+    /* sign up section */
+    .msform fieldset {
+        padding: 30px;
+    }
+
+    .appointment-form {
+        gap: 18px;
+    }
+
+    .appointment-form .form-group label {
+        font-size: 15px;
+        line-height: 25.24px;
+    }
+
+    #progressbar li {
+        font-size: 16px;
+    }
+
+    .msform .action-button, .msform .action-button-previous {
+        padding: 12px;
+        font-size: 15px;
+    }
+
+    .file-upload-space {
+        padding: 25px 25px;
+    }
+
+    .add-more-button {
+        padding: 12px;
+        font-size: 15px;
+    }
+
+    .sign-in-section {
+        padding: 40px 0px;
+    }
+
+    /* account type */
+    .account-type-heading {
+        margin-bottom: 10px;
+    }
+
+    .acoount-type-name {
+        font-size: 15px;
+        line-height: 25.24px;
+        margin-bottom: 15px;
+    }
+
+    .account-type-options {
+        padding: 13px 15px;
+        font-size: 15px;
+    }
+
+    .mamun-link, .mamun-link a {
+        font-size: 15px;
+        margin-top: 25px;
+    }
+
+    .blog-details-main-post h3 {
+        font-size: 16px;
+        line-height: 28.8px;
+    }
+
+    .blog-details-main-post p {
+        font-size: 15px;
+        margin-bottom: 18px;
+    }
+
+    .blog-details-main-heading {
+        margin-bottom: 23px;
+    }
+
+    .blog-details-section {
+        padding: 0px 30px;
+    }
+
+    .how-to-card-wrapper {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+    }
+
+    .how-to-card-item {
+        padding: 30px 20px;
+        gap: 15px;
+    }
+
+    .how-to-card-item-content-area h4 {
+        font-size: 18px;
+        line-height: 30.8px;
+    }
+}
+
+
+/* extra small devices */
+@media (max-width: 500px) {
+    .banner-section-start {
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 100%), url(../images/hero-banner.jpg) lightgray 0px 0.219px / 100% 162.396% no-repeat;
+    }
+
+    .expert-card-wrapper {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+        margin-top: 20px;
+    }
+
+    .blog-collections-cards {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 15px !important;
+        margin-top: 15px;
+    }
+
+    .tm-rebates-image-area img {
+        max-height: 410px !important;
+    }
+
+    .hero-content-wrapper {
+        padding: 30px 0px;
+    }
+
+    .hero-content-wrapper h1 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .hero-content-wrapper h2 {
+        font-size: 18px;
+        line-height: normal;
+        margin: 5px 0px 8px;
+    }
+
+    .hero-content-wrapper p {
+        font-size: 15px;
+        line-height: normal;
+        max-width: 80%;
+    }
+
+    /* common css */
+    .container {
+        padding: 0px 20px;
+    }
+
+    .mt-150 {
+        margin-top: 30px;
+    }
+
+    .mb-150 {
+        margin-bottom: 30px;
+    }
+
+    .ptb-80 {
+        padding: 20px 0px;
+    }
+
+    .service-blog-section {
+        padding: 20px 0px;
+    }
+
+    .tm-row {
+        margin-top: 20px;
+        gap: 20px;
+    }
+
+    .tm-common-heading {
+        font-size: 18px;
+        line-height: 30.36px;
+    }
+
+    .common-heading-para-link-wrapper {
+        gap: 12px;
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .tm-row-2,
+    .tm-row-3 {
+        gap: 25px;
+    }
+
+    .banner-section-start {
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 100%), url(../images/hero-banner.jpg) lightgray 0px 0.219px / 100% 162.396% no-repeat;
+    }
+
+    .expert-heading-para p {
+        font-size: 14px;
+        margin-top: 2px;
+    }
+
+    /* common css */
+    .hero-banner-btn {
+        margin-top: 15px;
+        font-size: 14px;
+        padding: 8px 13px
+    }
+
+    .tm-common-link {
+        font-size: 14px;
+        line-height: 24.24px;
+        gap: 2px;
+        padding: 7px 10px;
+    }
+
+    .tm-common-link svg {
+        height: 22px;
+    }
+
+    .expert-card-item {
+        gap: 8px;
+        padding: 8px;
+    }
+
+    .expert-card-item-link {
+        font-size: 14px;
+        line-height: normal;
+        padding: 8px;
+        margin-top: 10px;
+    }
+
+    .expert-card-content-area {
+        gap: 3px;
+    }
+
+    .expert-sub-heading {
+        font-size: 14px;
+        line-height: 24.36px;
+        margin-bottom: 0px;
+    }
+
+    .therapy-section-heading {
+        font-size: 18px;
+        line-height: 26.36px;
+    }
+
+    .therapy-section p {
+        font-size: 14px;
+    }
+
+    .therapy-section {
+        gap: 10px;
+        padding: 13px;
+        padding-bottom: 25px;
+    }
+
+    .therapy-section-sub-heading {
+        font-size: 15px;
+    }
+
+    .tm-common-link-2 {
+        margin-top: 15px;
+    }
+
+    .expert-card-img-area {
+        height: 220px;
+    }
+
+    .tm-join-instruction-item h4 {
+        font-size: 16px;
+    }
+
+    .tm-join-instruction-item p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .tm-join-instruction-item {
+        padding: 15px 15px 20px 20px;
+    }
+
+    .expert-card-content-area h5 {
+        font-size: 15px;
+    }
+
+    .expert-card-content-area p {
+        font-size: 14px;
+        line-height: 24.24px;
+    }
+
+    .tm-join-instruction-wrapper {
+        gap: 10.5px;
+    }
+
+    .tm-row-2, .tm-row-3 {
+        gap: 20px;
+    }
+
+    .rebates-mini-card-item h3 {
+        font-size: 16px;
+        line-height: 26.8px;
+    }
+
+    .rebates-mini-card-item p {
+        font-size: 14px;
+    }
+
+    .rebates-mini-card-item {
+        padding: 13px;
+    }
+
+    .rebates-mini-card-wrapper {
+        gap: 10px;
+        margin-top: 15px;
+    }
+
+    .blog-section .common-heading-para-link-wrapper {
+        text-align: center;
+        align-items: center !important;
+    }
+
+    .faq-title {
+        margin-bottom: 15px;
+    }
+
+    .tm-accordion {
+        gap: 10px;
+    }
+
+    .tm-accordion .accordion-button {
+        font-size: 15px;
+        line-height: 26.52px;
+        padding: 16px;
+        padding-right: 2rem !important;
+    }
+
+    .tm-accordion .accordion-body {
+        font-size: 14px;
+        padding: 16px;
+    }
+
+    .serial-number {
+        font-size: 13px;
+        padding: 2.07px 6px;
+        top: 21px;
+        left: -10px;
+    }
+
+    /* blog */
+    .blog-date-heading-wrapper {
+        gap: 3px;
+        margin-top: 10px;
+    }
+
+    .blog-img-area {
+        height: 230px;
+    }
+
+    .blog-date-heading-wrapper h3 {
+        font-size: 15px;
+        line-height: 25.8px;
+    }
+
+    .blog-para {
+        font-size: 15px;
+    }
+
+    .blog-content-area {
+        gap: 10px;
+    }
+
+    .blog-read-more {
+        font-size: 15px;
+        margin-top: 3px;
+        gap: 5px;
+    }
+
+    .blog-details-main-post h3 {
+        font-size: 15px;
+        line-height: 25.8px;
+        margin-bottom: 5px;
+    }
+
+    .blog-details-main-post p {
+        font-size: 14px;
+        line-height: 21px;
+        margin-bottom: 15px;
+    }
+
+    .blog-details-main-heading {
+        margin-bottom: 20px;
+    }
+
+    /* abouty us */
+    .tm-about-us-row {
+        gap: 10px;
+    }
+
+    .tm-about-col-text-area {
+        gap: 10px;
+    }
+
+    .tm-about-col-text-area-main h3 {
+        font-size: 16px;
+    }
+
+    .tm-about-col-text-area-main {
+        gap: 8px;
+    }
+
+    .tm-about-col-text-area-main p {
+        font-size: 14px;
+    }
+
+    .tm-about-col-text-area-main h4 {
+        font-size: 14px;
+    }
+
+    /* services */
+    .service-main-content-wrapper h2 {
+        margin-bottom: 10px;
+    }
+
+    .service-main-content-wrapper p {
+        font-size: 14px;
+    }
+
+    .service-main-content-wrapper {
+        gap: 15px;
+    }
+
+    .services-content-lower-wrapper {
+        grid-template-columns: repeat(1, 1fr);
+        row-gap: 10px;
+    }
+
+    .service-lower-item h3 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .service-lower-item {
+        gap: 6px;
+    }
+
+    /* appointment cobtact */
+    .tm-doctor-details-row {
+        gap: 21px;
+    }
+
+    .tm-doctor-details {
+        gap: 10px;
+        padding: 15px;
+    }
+
+    .tm-doctor-details p {
+        font-size: 15px;
+    }
+
+    .tm-doctor-details p .doctor-details-span-2 {
+        font-size: 14px;
+    }
+
+    .doctor-details-span-1 {
+        min-width: 33%;
+    }
+
+    .tm-doctor-details p {
+        display: flex;
+        gap: 10px;
+    }
+
+    .doctor-details-line {
+        margin-bottom: 10px;
+    }
+
+    .tm-map-area {
+        padding: 15px;
+    }
+
+    .booking-map-para {
+        font-size: 14px;
+        line-height: 24px;
+        margin: 8px 0px 20px;
+    }
+
+    .footer-contact-item {
+        gap: 14px;
+    }
+
+    .book-contact-section .footer-contact-item-text-wrapper p {
+        font-size: 14px;
+    }
+
+    .tm-main-map {
+        margin-top: 30px;
+        height: 300px;
+    }
+
+    .appointment-form-container {
+        padding: 15px;
+    }
+
+    .appointment-form {
+        gap: 10px;
+    }
+
+    .appointment-form .form-row {
+        gap: 10px;
+    }
+
+    .appointment-form .form-group input, .appointment-form .form-group select, .appointment-form .form-group textarea {
+        padding: 9px;
+
+    }
+
+    .appointment-form .form-group label {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+
+    .time-slots {
+        gap: 10px;
+    }
+
+    .submit-button {
+        margin-top: 10px;
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    /* sign in forgot section  */
+    .sign-in-up-content-wrapper {
+        gap: 50px;
+        padding: 16px;
+        border-radius: 0px;
+    }
+
+    .sign-in-up-form-area {
+        padding: 20px;
+        gap: 10px;
+    }
+
+    .form-header-para h1 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .form-header-para {
+        gap: 8px;
+    }
+
+    .form-header-para p {
+        font-size: 14px;
+    }
+
+    .tm-sign-in-up-form {
+        gap: 15px;
+    }
+
+    .form-floating > .form-control, .form-floating > .form-control-plaintext {
+        padding: 0.7rem .55rem;
+    }
+
+    .tm-sign-in-up-form .remember-forgot {
+        margin-top: 10px;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+
+    /* sign up section */
+    .msform fieldset {
+        padding: 16px;
+    }
+
+    #progressbar li {
+        width: 33.33%;
+        font-size: 13px;
+        line-height: 19.76px;
+        letter-spacing: -0.36px;
+    }
+
+    .custom-checkbox .checkmark {
+        min-width: 16px;
+    }
+
+    .appointment-form .form-group label {
+        line-height: 24px;
+    }
+
+    .msform .action-button, .msform .action-button-previous {
+        font-size: 14px;
+        line-height: 24.24px;
+        cursor: pointer;
+        padding: 8px;
+        margin: 8px 5px;
+    }
+
+    #progressbar {
+        margin-bottom: 25px;
+    }
+
+    #progressbar li:before,
+    #progressbar li.active:before {
+        width: 30px;
+        height: 30px;
+    }
+
+    #progressbar li:before {
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+    }
+
+    #progressbar li:after {
+        height: 5px;
+        top: 13px;
+    }
+
+    .common-form-title {
+        font-size: 15px;
+    }
+
+    .file-upload-space {
+        gap: 5px;
+        padding: 15px 20px;
+    }
+
+    .file-upload-space svg {
+        width: 35px;
+        height: 35px;
+        padding: 6px;
+    }
+
+    .file-upload-space p {
+        font-size: 14px;
+    }
+
+    .add-more-button {
+        padding: 8px;
+        font-size: 14px;
+        line-height: 24.24px;
+    }
+
+    .add-more-button svg {
+        height: 20px;
+        width: 20px;
+    }
+
+    .multi-btn-wrapper {
+        gap: 10px;
+        margin-top: 15px;
+    }
+
+    .sign-in-section {
+        padding: 30px 0px;
+    }
+
+    /* account type */
+    .account-type-heading {
+        margin-bottom: 8px;
+    }
+
+    .acoount-type-name {
+        font-size: 14px;
+        line-height: 25.24px;
+        margin-bottom: 10px;
+    }
+
+    .account-type-options {
+        padding: 11px 14px;
+        font-size: 14px;
+    }
+
+    .mamun-link, .mamun-link a {
+        font-size: 14px;
+        margin-top: 20px;
+    }
+
+    .blog-details-section {
+        padding: 0px 20px;
+    }
+
+    .how-to-card-wrapper {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+    }
+
+    .how-to-card-item {
+        padding: 20px 15px;
+        gap: 10px;
+    }
+
+    .how-to-card-item-content-area h4 {
+        font-size: 16px;
+        line-height: 26.8px;
+    }
+
+    .how-to-card-item-content-area {
+        gap: 10px;
+    }
+
+    .how-to-card-item-content-area p {
+        font-size: 14px;
+    }
+}
+
+
+@media (max-width: 991px) {
+    .appointment-form .form-row {
+        flex-direction: column;
+    }
+
+    .tm-row,
+    .tm-about-us-row {
+        flex-direction: column-reverse !important;
+    }
+
+    .tm-row-2,
+    .tm-row-3,
+    .tm-doctor-details-row {
+        flex-direction: column;
+    }
+
+    .tm-col {
+        width: 100% !important;
+    }
+
+    .tm-rebates-image-area img {
+        height: 100%;
+        max-height: 500px;
+        object-fit: cover;
+    }
+
+    .common-heading-para-link-wrapper {
+        flex-direction: column;
+        align-items: start;
+    }
+
+    /* sign in responsive */
+    .sign-in-up-image-area {
+        display: none;
+    }
+
+    .sign-in-up-form-area {
+        width: 100%;
+    }
+
+}
